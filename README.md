@@ -8,7 +8,7 @@ This is an easy to use Batch interface for youtube-dl. It takes away the hassle 
 
 # Installation
 What you need:
-- [My Bat file](#installation)
+- [My Bat file](https://github.com/5hunx/convert2mp3/blob/master/dl.bat)
 - [FFMPEG](https://ffmpeg.zeranoe.com/builds/)
 - [youtube-dl](http://ytdl-org.github.io/youtube-dl/download.html)
 
