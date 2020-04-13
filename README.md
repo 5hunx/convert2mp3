@@ -1,7 +1,6 @@
 # Convert2mp3
 Basic Batch UI for youtube-dl
-This is an easy to use Batch interface for youtube-dl. It takes away the hassle of using the promt while making it easy to download and convert your favourite songs from Youtube directly into .mp3 files. I DO NOT HOLD THE RIGHTS FOR youtube-dl NOR AM I IN CONTACT WITH THE CREATORS
-
+This is an easy to use Batch interface for youtube-dl. It takes away the hassle of using the promt while making it easy to download and convert your favourite songs from Youtube directly into .mp3 files. 
 - [INSTALLATION](#installation)
 - [CONFIGURATION](#configuration)
 - [DEFAULTS](#defaults)
@@ -39,3 +38,5 @@ The Default conf (and the conf that I recommend) is:
     rem conf end
 
 Thanks for Reading! Have fun Downloading.
+I DO NOT HOLD THE RIGHTS FOR youtube-dl / FFMPEG NOR AM I IN CONTACT WITH THE CREATORS
+
