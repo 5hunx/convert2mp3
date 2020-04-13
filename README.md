@@ -16,7 +16,7 @@ Just download the Batch file and place it into a folder and start it. It should 
 
 # Configuration
 The Config is pretty self-explanatory and can be edited in the head of the file. In most cases its a True/False question where y(es) is True and n(o) is False. You can change: 
-- if youtube-dl should look for updates every start
+- if youtube-dl should look for updates on every start
 - if youtube-dl should save the temp files
 - if youtube-dl should ask you for custom titles
 - if ffmpeg should automatically convert the downloaded file into mp3
@@ -33,7 +33,7 @@ The Default conf (and the conf that I recommend) is:
     set "safetemp=n"
     set "askcustomtitle=n"
     set "convertmp3=y"
-    set "songlocation=" rem music/ for example
+    set "songlocation="
     set "programmlocation=!p"
     set "showlog=y"
     rem conf end
