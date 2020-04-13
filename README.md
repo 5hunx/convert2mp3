@@ -5,6 +5,7 @@ This is an easy to use Batch interface for youtube-dl. It takes away the hassle 
 - [INSTALLATION](#installation)
 - [CONFIGURATION](#configuration)
 - [DEFAULTS](#defaults)
+- [USAGE](#usage)
 
 # Installation
 What you need:
@@ -38,6 +39,8 @@ The Default conf (and the conf that I recommend) is:
     set "showlog=y"
     rem conf end
 
+# Usage
+With this you can download Songs or even entire Playlists without having to worry about huge file sizes or slow downloads. I also have a similar Batch-script for videos but its a hassle to translate it. Message me if you want it and ill look into it.
 Thanks for Reading! Have fun Downloading.
 
 I DO NOT HOLD THE RIGHTS FOR youtube-dl / FFMPEG NOR AM I IN CONTACT WITH THE CREATORS
