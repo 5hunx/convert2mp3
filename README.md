@@ -38,5 +38,5 @@ The Default conf (and the conf that I recommend) is:
     rem conf end
 
 Thanks for Reading! Have fun Downloading.
-I DO NOT HOLD THE RIGHTS FOR youtube-dl / FFMPEG NOR AM I IN CONTACT WITH THE CREATORS
 
+I DO NOT HOLD THE RIGHTS FOR youtube-dl / FFMPEG NOR AM I IN CONTACT WITH THE CREATORS
