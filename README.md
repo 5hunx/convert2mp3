@@ -28,13 +28,14 @@ The Default conf (and the conf that I recommend) is:
 
 # Defaults
 
-  rem conf
-  set "autoupdate=y"
-  set "safetemp=n"
-  set "askcustomtitle=n"
-  set "convertmp3=y"
-  set "songlocation=" rem music/ for example
-  set "programmlocation=!p"
-  set "showlog=y"
-  rem conf end
+    rem conf
+    set "autoupdate=y"
+    set "safetemp=n"
+    set "askcustomtitle=n"
+    set "convertmp3=y"
+    set "songlocation=" rem music/ for example
+    set "programmlocation=!p"
+    set "showlog=y"
+    rem conf end
 
+Thanks for Reading! Have fun Downloading.
